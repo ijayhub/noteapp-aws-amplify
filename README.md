@@ -5,5 +5,10 @@ This project demonstrates how to build and deploy a full-stack web application u
 ## Features  
 - **Authentication** – Secure user sign-up/sign-in 
  
-- **Hosting** – Deploy frontend easily with AWS Amplify Hosting  
+- **Hosting** – Deploy frontend easily with AWS Amplify Hosting
+
+
+<video width="320" height="240" controls>
+  <source src="demo-amplify.mp4" type="video/mp4">
+</video>
 
