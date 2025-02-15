@@ -90,7 +90,7 @@ export default function App() {
 
   return (
 		<>
-			<h1 style={{ color: 'green' }}>AWS-AMPLIFY</h1>
+			<h2 style={{ color: 'purple' }}>AWS-AMPLIFY</h2>
 			<Authenticator>
 				{({ signOut }) => (
 					<Flex
